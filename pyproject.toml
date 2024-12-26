@@ -1,0 +1,13 @@
+[project]
+name = "corpus-annotation"
+version = "2024.12.26"
+requires-python = ">=3.8"
+dependencies = ["spacy <= 3.4.4", "pandas", "nltk", "scipy"]
+
+authors = [{ name = "Raman But-Husaim" }]
+
+readme = "README.md"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/RamanBut-Husaim/corpus-annotation.git"
